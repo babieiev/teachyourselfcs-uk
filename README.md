@@ -1,7 +1,4 @@
-<h1 align="center">Teach Yourself Computer Science</h1>
-<p align="center">🔹🔹🔹 in Ukrainian 🔹🔹🔹</p>
-
-[![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
+# TeachYourselfCS in Ukrainian
 
 🇺🇸 This repository contains a Ukrainian translation of the 2020 version of [TeachYourselfCS](https://teachyourselfcs.com/) guide. Translator: Oleksandr Babieiev. Authors: Oz Nova, Myles Byrne.
 
