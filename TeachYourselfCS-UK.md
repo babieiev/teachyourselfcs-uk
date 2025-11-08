@@ -134,7 +134,7 @@
 
 Почати вивчення дискретної математики ми пропонуємо з [конспекту лекцій Ласло Ловаса](https://cims.nyu.edu/~regev/teaching/discrete_math_fall_2005/dmbook.pdf). Професор Ловас добре попрацював, зробивши зміст доступним та інтуїтивно зрозумілим, тому, на нашу думку, ця праця краща за більшість формальних текстів.
 
-Більш просунутим читачам радимо книгу *[Mathematics for Computer Science](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf)*, яка фактично є конспектом лекцій для однойменного курсу MIT. Відеолекції курсу також є [у вільному доступі](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/video_galleries/video-lectures/), і ми рекомендуємо саме їх для вивчення дискретної математики.
+Більш просунутим читачам радимо книгу *[Mathematics for Computer Science](https://courses.csail.mit.edu/6.042/spring18/mcs.pdf)*, яка фактично є конспектом лекцій для однойменного курсу MIT. Відеолекції курсу також є [у вільному доступі](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/video_galleries/video-lectures/), і ми рекомендуємо саме їх для вивчення дискретної математики.
 
 Вивчення алгебри ми пропонуємо почати з відеосерії [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab), потім перейти до [книги](https://www.amazon.com/Introduction-Linear-Algebra-Gilbert-Strang/dp/0980232775/) та [відеолекцій](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/) Гілберта Стренга.
 
