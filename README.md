@@ -1,11 +1,17 @@
 # TeachYourselfCS in Ukrainian
 
-🇺🇸 This repository contains a Ukrainian translation of the 2020 version of [TeachYourselfCS](https://teachyourselfcs.com/) guide. Translator: Oleksandr Babieiev. Authors: Oz Nova, Myles Byrne.
+🇺🇸 Authors: [Oz Nova][oz], [Myles Byrne][myles]. Translator: [Oleksandr Babieiev][oleksandr].
 
-* [Original](https://teachyourselfcs.com/)
-* [Translation](TeachYourselfCS-UK.md)
+* [Original][original]
+* [Translation][translation]
 
-🇺🇦 Цей репозиторій містить український переклад посібника [TeachYourselfCS](https://teachyourselfcs.com/) версії 2020 року. Перекладач: Олександр Бабєєв. Автори: Оз Нова, Майлс Бірн.
+🇺🇦 Автори: [Оз Нова][oz], [Майлс Бірн][myles]. Перекладач: [Олександр Бабєєв][oleksandr].
 
-* [Оригінал](https://teachyourselfcs.com/)
-* [Переклад](TeachYourselfCS-UK.md)
+* [Оригінал][original]
+* [Переклад][translation]
+
+[original]: https://teachyourselfcs.com/
+[translation]: TeachYourselfCS-UK.md 
+[oz]: https://x.com/oznova_
+[myles]: https://x.com/quackingduck
+[oleksandr]: https://github.com/babieiev
